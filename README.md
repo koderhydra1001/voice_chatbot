@@ -15,7 +15,7 @@ To run this chatbot locally, you need Python and some required dependencies.
 
 ### 1. Clone the repository:
 ```sh
-git clone https://github.com/koderhydra/voice_chatbot.git
+git clone https://github.com/koderhydra1001/voice_chatbot.git
 cd voice-chatbot
 ```
 
