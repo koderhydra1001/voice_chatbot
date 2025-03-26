@@ -1,0 +1,7 @@
+openai==1.59.5
+streamlit==1.43.2
+sounddevice==0.5.1
+wavio==0.0.9
+gtts==2.5.4
+pydub==0.25.1
+pygame==2.6.1
